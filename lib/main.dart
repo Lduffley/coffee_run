@@ -1,4 +1,4 @@
-import 'package:coffeerunapp/screens/wrapper.dart';
+import 'package:coffeerunapp/screens/wrapper.dart'
 import 'package:coffeerunapp/services/auth.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
